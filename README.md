@@ -1,16 +1,31 @@
 # lear_task
 
-A new Flutter project.
+## To Run this project please flow this steps:
 
-## Getting Started
+# For android: 
 
-This project is a starting point for a Flutter application.
+1- clone the repositiory using -> git clone https://github.com/zreaqqasem/lear_task.git
 
-A few resources to get you started if this is your first Flutter project:
+2- open the project using any ide/ for example android studio.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3- run "flutter pug get" from command line or from android studio it self.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4- finally run the project for android.
+
+# For IOS:
+
+1- clone the repositiory using -> git clone https://github.com/zreaqqasem/lear_task.git
+
+2- open the project using any ide/ for example android studio.
+
+3- run flutter pub get.
+
+4-navigate to ios dirictory  using cd ios in terminal.
+
+5-run "pod install" command in terminal under ios directory.
+
+## IF YOU HAVE A PROBLEM IN COMPILE SDK VERSION THEN DO THE FOLOWING:
+
+1- click on android studio
+2- prefrenceses -> system settings -> android sdk -> sdk platforms -> select android api 33 click apply -> will download it -> then click apply okay
+the app should runnging after this steps.
