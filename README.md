@@ -8,9 +8,11 @@
 
 2- open the project using any ide/ for example android studio.
 
-3- run "flutter pug get" from command line or from android studio it self.
+3- run flutter clean
 
-4- finally run the project for android.
+4- run "flutter pug get" from command line or from android studio it self.
+
+5- finally run the project for android.
 
 # For IOS:
 
@@ -18,9 +20,11 @@
 
 2- open the project using any ide/ for example android studio.
 
-3- run flutter pub get.
+3- run flutter clean
 
-4-navigate to ios dirictory  using cd ios in terminal.
+4- run flutter pub get.
+
+5-navigate to ios dirictory  using cd ios in terminal.
 
 5-run "pod install" command in terminal under ios directory.
 
