@@ -29,3 +29,5 @@
 1- click on android studio
 2- prefrenceses -> system settings -> android sdk -> sdk platforms -> select android api 33 click apply -> will download it -> then click apply okay
 the app should runnging after this steps.
+
+## to install and test the app you can also download it's apk from this url: https://drive.google.com/file/d/1cefFDVVySAi1-ylOn2cMHdOpBq-GwUQv/view?usp=sharing and just drag the apk to simulator or yoyr physical device and see the result.
