@@ -26,7 +26,11 @@
 
 5-navigate to ios dirictory  using cd ios in terminal.
 
-5-run "pod install" command in terminal under ios directory.
+6-run "pod install" command in terminal under ios directory.
+
+7- open the project from xcode and add an apple id account for it from signing and capabilites in xcode.
+
+8- run the project.
 
 ## IF YOU HAVE A PROBLEM IN COMPILE SDK VERSION THEN DO THE FOLOWING:
 
